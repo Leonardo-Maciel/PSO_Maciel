@@ -3,7 +3,6 @@ from math import sqrt
 import numpy as np
 import random
 
-
 W = 0.7
 c1 = 0.8
 c2 = 0.9

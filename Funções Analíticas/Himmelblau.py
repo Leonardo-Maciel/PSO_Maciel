@@ -10,6 +10,7 @@ c2 = 0.9
 n_particulas = 30
 interacoes = 1000
 erro = 1e-6
+
 class Particle():
 
     def __init__(self):
