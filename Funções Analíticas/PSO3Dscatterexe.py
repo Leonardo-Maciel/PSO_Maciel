@@ -1,7 +1,7 @@
 from mpl_toolkits import mplot3d
 import numpy as np
 import matplotlib.pyplot as plt
-from PSO3DScatter import PSO3d
+from PSO3dScatter import PSO3d
 from scatter_interacoesgbest import PSO
 
 def objective_function(x):
